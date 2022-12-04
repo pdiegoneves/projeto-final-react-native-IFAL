@@ -23,7 +23,7 @@ function AnimationScreen() {
       <Animatable.Text
         animation="swing"
         easing="ease-in-out"
-        duration='5000'
+        duration={5000}
         style={{ textAlign: 'center', fontSize: 50 }}
       >
         🖐
